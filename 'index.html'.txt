@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arisa Boutique's</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Arisa Boutique's</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#products">Our Products</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Arisa Boutique's</h2>
+        <p>Where luxury meets elegance. Explore our exquisite collection of rare roses and high-class event decorations. Elevate your special occasions with our unparalleled sophistication and style.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <!-- About Us content here -->
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <!-- Products content here -->
+    </section>
+
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <!-- Gallery content here -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <!-- Contact Us content here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Arisa Boutique's. All rights reserved.</p>
+    </footer>
+</body>
+</html>
